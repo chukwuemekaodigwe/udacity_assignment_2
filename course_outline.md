@@ -1,0 +1,3 @@
+You will use Node.js/Express, a popular JavaScript framework for networked application development to develop this application. You will implement a REST API to issue commands using HTTP, store data in Amazon Web Services (AWS) Relational Data Service (RDS) and S3, extend the codebase with secure authentication sign-on features, and deploy to AWS Elastic Beanstalk.
+
+These are the hard skills you’ll need in any Cloud Developer role.
